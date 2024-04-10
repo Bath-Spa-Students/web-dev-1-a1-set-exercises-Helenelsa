@@ -1,0 +1,24 @@
+body{
+ font-weight: Arial, sans-serif;
+background-color:black;
+text-align: center;
+font-size: 20px;
+color: rgb(55, 173, 76);
+}
+h1{color: beige;}
+.image.container{
+     background-color: white;
+    display:inline-block;
+    margin:20px;
+    filter: contrast(2);
+}
+
+img{
+    border:1px solid#360707;
+}
+
+.image.info{
+    text-align: left;
+    font-weight: lighter;
+    color: green;
+}
